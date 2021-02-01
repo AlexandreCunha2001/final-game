@@ -1,7 +1,8 @@
 #board {
     position: absolute;
-    top: 50px;
+    top: 200px;
     left: 50px;
+    
   }
   .square {
     position: absolute;
@@ -13,7 +14,7 @@
   
   #canvas {
     position: absolute;
-    top: 50px;
+    top: 200px;
     left: 50px;
     
     /*top: 100px;
@@ -27,3 +28,4 @@
     border-radius: 50%;
     border: 1px solid;
   }
+
